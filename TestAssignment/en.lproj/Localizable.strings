@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  TestAssignment
+
+  Created by Dmytro Kovryhin on 11.03.2020.
+  Copyright © 2020 Dmytro Kovryhin. All rights reserved.
+*/
+
+"constants_label_title" = "Put selected constants here";
+"localized_label_title" = "Put localized selected conditions here";
+"button_title" = "Pick conditions";
+
+"orders_courier" = "Delivery";
+"orders_no_smoke" = "Non-smoking driver";
+"orders_luggage" = "Extra luggage";
+"orders_animal" = "Going with pet";
+"orders_conditioner" = "Air conditioning";
+"orders_english_speaker" = "English speaking driver";
+"orders_meet_with_sign" = "Meet me with a sign";
+"orders_baby_chair" = "Baby car seat (beta)";
+
+"orders_what_animal" = "What kind of animal?";
+"orders_name_on_sign" = "Name on the sign";
+
+"done_button_title" = "Done";
